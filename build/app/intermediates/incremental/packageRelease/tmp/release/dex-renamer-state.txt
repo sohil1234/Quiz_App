@@ -1,0 +1,4 @@
+#Mon May 29 22:08:09 IST 2023
+base.0=C\:\\Users\\go4sh\\Desktop\\quiz_app\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
